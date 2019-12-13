@@ -1,0 +1,19 @@
+{
+  "type":"record",
+  "namespace":"kafka.schema_registery.b_KafkAvroProducer",
+  "name":"Product",
+  "fields":[
+    {
+      "name":"color",
+      "type":"string"
+    },
+    {
+      "name":"productType",
+      "type":"string"
+    },
+    {
+      "name":"designType",
+      "type":"string"
+    }
+  ]
+}

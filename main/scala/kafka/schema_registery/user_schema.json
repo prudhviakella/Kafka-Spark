@@ -1,0 +1,11 @@
+{
+  "type":"record",
+  "namespace":"kafka.schema_registery.b_KafkAvroProducer",
+  "name":"UserId",
+  "fields":[
+    {
+      "name":"userId",
+      "type":"string"
+    }
+  ]
+}
